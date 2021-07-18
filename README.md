@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Hi, I'm Aayush! 👋
 
 ##  About Me
-   I am 3rd year student at Walchand College of Engineering pursuing B.Tech . I am also a competitive programmer and DSA enthusiast also skilled in C, C++, Data Structures and Algorithms.
+   I am final year student at Walchand College of Engineering pursuing B.Tech . I am also a competitive programmer and DSA enthusiast also skilled in C, C++, Data Structures and Algorithms.
   
   
    🌱 I’m currently exploring new technologies
